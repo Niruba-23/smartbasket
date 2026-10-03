@@ -1,0 +1,601 @@
+bill_id,date,product,category,quantity,unit_price,amount
+1000,2026-09-22,Chocolate,Snacks,2,50,100
+1000,2026-09-05,Soap,Personal Care,3,38,114
+1000,2026-09-18,Rice 5kg,Grocery,4,320,1280
+1001,2026-09-24,Chocolate,Snacks,4,50,200
+1001,2026-09-28,Wheat Flour 5kg,Grocery,2,240,480
+1001,2026-09-08,Milk 1L,Dairy,4,56,224
+1002,2026-09-15,Chips,Snacks,4,20,80
+1002,2026-09-16,Curd 500g,Dairy,1,40,40
+1002,2026-09-29,Biscuits,Snacks,1,30,30
+1003,2026-09-11,Soap,Personal Care,3,38,114
+1003,2026-09-24,Chocolate,Snacks,2,50,100
+1003,2026-09-16,Pen Pack,Stationery,4,45,180
+1004,2026-09-25,Chocolate,Snacks,1,50,50
+1004,2026-09-17,Curd 500g,Dairy,1,40,40
+1004,2026-09-25,Wheat Flour 5kg,Grocery,3,240,720
+1005,2026-09-13,Chocolate,Snacks,4,50,200
+1005,2026-09-30,Milk 1L,Dairy,2,56,112
+1005,2026-09-26,Curd 500g,Dairy,1,40,40
+1006,2026-09-23,Wheat Flour 5kg,Grocery,2,240,480
+1006,2026-09-19,Sugar 1kg,Grocery,3,48,144
+1006,2026-09-07,Curd 500g,Dairy,4,40,160
+1007,2026-09-05,Chips,Snacks,2,20,40
+1007,2026-09-16,Soap,Personal Care,4,38,152
+1007,2026-09-29,Milk 1L,Dairy,2,56,112
+1008,2026-09-22,Chips,Snacks,1,20,20
+1008,2026-09-27,Sugar 1kg,Grocery,1,48,48
+1008,2026-09-26,Chocolate,Snacks,3,50,150
+1009,2026-09-11,Chips,Snacks,4,20,80
+1009,2026-09-18,Curd 500g,Dairy,3,40,120
+1009,2026-09-10,Wheat Flour 5kg,Grocery,1,240,240
+1010,2026-09-22,Chips,Snacks,2,20,40
+1010,2026-09-05,Biscuits,Snacks,4,30,120
+1010,2026-09-19,Chips,Snacks,3,20,60
+1011,2026-09-26,Biscuits,Snacks,2,30,60
+1011,2026-09-13,Rice 5kg,Grocery,2,320,640
+1011,2026-09-11,Sugar 1kg,Grocery,2,48,96
+1012,2026-09-04,Soap,Personal Care,1,38,38
+1012,2026-09-28,Rice 5kg,Grocery,2,320,640
+1012,2026-09-16,Toor Dal 1kg,Grocery,3,150,450
+1013,2026-09-18,Biscuits,Snacks,4,30,120
+1013,2026-09-15,Chips,Snacks,2,20,40
+1013,2026-09-12,Soap,Personal Care,1,38,38
+1014,2026-09-06,Rice 5kg,Grocery,1,320,320
+1014,2026-09-23,Chips,Snacks,2,20,40
+1014,2026-09-30,Sugar 1kg,Grocery,3,48,144
+1015,2026-09-17,Wheat Flour 5kg,Grocery,3,240,720
+1015,2026-09-07,Curd 500g,Dairy,2,40,80
+1015,2026-09-23,Milk 1L,Dairy,3,56,168
+1016,2026-10-01,Milk 1L,Dairy,1,56,56
+1016,2026-09-13,Wheat Flour 5kg,Grocery,4,240,960
+1016,2026-09-17,Toothpaste,Personal Care,3,95,285
+1017,2026-09-25,Toor Dal 1kg,Grocery,4,150,600
+1017,2026-09-10,Chocolate,Snacks,3,50,150
+1017,2026-09-25,Curd 500g,Dairy,2,40,80
+1018,2026-09-16,Wheat Flour 5kg,Grocery,4,240,960
+1018,2026-09-24,Curd 500g,Dairy,1,40,40
+1018,2026-09-27,Milk 1L,Dairy,3,56,168
+1019,2026-09-16,Sugar 1kg,Grocery,4,48,192
+1019,2026-09-17,Chocolate,Snacks,3,50,150
+1019,2026-09-12,Curd 500g,Dairy,3,40,120
+1020,2026-09-05,Biscuits,Snacks,3,30,90
+1020,2026-09-25,Rice 5kg,Grocery,2,320,640
+1020,2026-09-08,Rice 5kg,Grocery,2,320,640
+1021,2026-09-22,Milk 1L,Dairy,1,56,56
+1021,2026-09-08,Wheat Flour 5kg,Grocery,3,240,720
+1021,2026-09-11,Sugar 1kg,Grocery,4,48,192
+1022,2026-09-16,Biscuits,Snacks,2,30,60
+1022,2026-09-11,Biscuits,Snacks,1,30,30
+1022,2026-09-15,Notebook,Stationery,2,60,120
+1023,2026-09-04,Chocolate,Snacks,1,50,50
+1023,2026-09-23,Butter 100g,Dairy,2,58,116
+1023,2026-09-07,Notebook,Stationery,3,60,180
+1024,2026-09-27,Curd 500g,Dairy,2,40,80
+1024,2026-09-19,Milk 1L,Dairy,3,56,168
+1024,2026-09-11,Curd 500g,Dairy,1,40,40
+1025,2026-09-03,Soap,Personal Care,4,38,152
+1025,2026-09-12,Wheat Flour 5kg,Grocery,3,240,720
+1025,2026-09-22,Wheat Flour 5kg,Grocery,3,240,720
+1026,2026-09-10,Toor Dal 1kg,Grocery,3,150,450
+1026,2026-10-01,Chips,Snacks,4,20,80
+1026,2026-09-21,Wheat Flour 5kg,Grocery,4,240,960
+1027,2026-09-10,Sugar 1kg,Grocery,1,48,48
+1027,2026-09-19,Biscuits,Snacks,2,30,60
+1027,2026-09-16,Soap,Personal Care,4,38,152
+1028,2026-09-09,Milk 1L,Dairy,4,56,224
+1028,2026-09-21,Toor Dal 1kg,Grocery,3,150,450
+1028,2026-10-02,Toor Dal 1kg,Grocery,4,150,600
+1029,2026-09-18,Sugar 1kg,Grocery,1,48,48
+1029,2026-10-02,Curd 500g,Dairy,4,40,160
+1029,2026-09-05,Shampoo,Personal Care,3,120,360
+1030,2026-09-09,Shampoo,Personal Care,4,120,480
+1030,2026-09-17,Biscuits,Snacks,2,30,60
+1030,2026-09-13,Chocolate,Snacks,3,50,150
+1031,2026-09-29,Milk 1L,Dairy,1,56,56
+1031,2026-09-14,Chocolate,Snacks,2,50,100
+1031,2026-10-01,Toothpaste,Personal Care,1,95,95
+1032,2026-09-05,Wheat Flour 5kg,Grocery,4,240,960
+1032,2026-09-25,Wheat Flour 5kg,Grocery,1,240,240
+1032,2026-09-24,Biscuits,Snacks,4,30,120
+1033,2026-09-11,Sugar 1kg,Grocery,2,48,96
+1033,2026-09-12,Chocolate,Snacks,4,50,200
+1033,2026-09-16,Butter 100g,Dairy,1,58,58
+1034,2026-09-08,Rice 5kg,Grocery,1,320,320
+1034,2026-09-03,Wheat Flour 5kg,Grocery,3,240,720
+1034,2026-09-11,Wheat Flour 5kg,Grocery,3,240,720
+1035,2026-09-25,Chips,Snacks,3,20,60
+1035,2026-09-28,Sugar 1kg,Grocery,4,48,192
+1035,2026-09-05,Chips,Snacks,3,20,60
+1036,2026-09-16,Wheat Flour 5kg,Grocery,1,240,240
+1036,2026-09-05,Toothpaste,Personal Care,2,95,190
+1036,2026-09-06,Milk 1L,Dairy,2,56,112
+1037,2026-09-12,Chips,Snacks,4,20,80
+1037,2026-10-01,Toor Dal 1kg,Grocery,4,150,600
+1037,2026-09-20,Rice 5kg,Grocery,3,320,960
+1038,2026-09-28,Chips,Snacks,1,20,20
+1038,2026-09-25,Wheat Flour 5kg,Grocery,2,240,480
+1038,2026-09-07,Notebook,Stationery,3,60,180
+1039,2026-09-25,Toothpaste,Personal Care,4,95,380
+1039,2026-09-22,Curd 500g,Dairy,4,40,160
+1039,2026-09-22,Rice 5kg,Grocery,1,320,320
+1040,2026-09-10,Soap,Personal Care,4,38,152
+1040,2026-09-13,Sugar 1kg,Grocery,3,48,144
+1040,2026-09-30,Biscuits,Snacks,4,30,120
+1041,2026-09-11,Biscuits,Snacks,2,30,60
+1041,2026-09-30,Milk 1L,Dairy,2,56,112
+1041,2026-10-01,Chips,Snacks,4,20,80
+1042,2026-09-18,Curd 500g,Dairy,1,40,40
+1042,2026-10-02,Sugar 1kg,Grocery,3,48,144
+1042,2026-10-01,Soap,Personal Care,1,38,38
+1043,2026-09-17,Rice 5kg,Grocery,3,320,960
+1043,2026-09-08,Wheat Flour 5kg,Grocery,4,240,960
+1043,2026-09-30,Milk 1L,Dairy,1,56,56
+1044,2026-09-20,Toothpaste,Personal Care,1,95,95
+1044,2026-09-20,Toor Dal 1kg,Grocery,1,150,150
+1044,2026-09-19,Wheat Flour 5kg,Grocery,1,240,240
+1045,2026-09-08,Rice 5kg,Grocery,1,320,320
+1045,2026-09-15,Rice 5kg,Grocery,3,320,960
+1045,2026-09-27,Chips,Snacks,2,20,40
+1046,2026-10-02,Milk 1L,Dairy,3,56,168
+1046,2026-09-26,Shampoo,Personal Care,4,120,480
+1046,2026-09-17,Rice 5kg,Grocery,1,320,320
+1047,2026-09-09,Sugar 1kg,Grocery,1,48,48
+1047,2026-10-01,Biscuits,Snacks,2,30,60
+1047,2026-09-03,Rice 5kg,Grocery,2,320,640
+1048,2026-09-29,Biscuits,Snacks,1,30,30
+1048,2026-09-06,Soap,Personal Care,1,38,38
+1048,2026-09-23,Toothpaste,Personal Care,1,95,95
+1049,2026-09-27,Soap,Personal Care,4,38,152
+1049,2026-09-12,Pen Pack,Stationery,4,45,180
+1049,2026-09-21,Chocolate,Snacks,3,50,150
+1050,2026-09-25,Chocolate,Snacks,1,50,50
+1050,2026-09-12,Biscuits,Snacks,3,30,90
+1050,2026-09-28,Soap,Personal Care,2,38,76
+1051,2026-09-23,Milk 1L,Dairy,3,56,168
+1051,2026-09-04,Toor Dal 1kg,Grocery,1,150,150
+1051,2026-09-07,Curd 500g,Dairy,2,40,80
+1052,2026-09-13,Sugar 1kg,Grocery,2,48,96
+1052,2026-09-25,Milk 1L,Dairy,2,56,112
+1052,2026-09-08,Milk 1L,Dairy,3,56,168
+1053,2026-09-26,Milk 1L,Dairy,4,56,224
+1053,2026-09-28,Toothpaste,Personal Care,2,95,190
+1053,2026-09-16,Milk 1L,Dairy,3,56,168
+1054,2026-09-17,Soap,Personal Care,3,38,114
+1054,2026-09-19,Chocolate,Snacks,3,50,150
+1054,2026-09-05,Chips,Snacks,2,20,40
+1055,2026-09-04,Chips,Snacks,1,20,20
+1055,2026-09-18,Chips,Snacks,4,20,80
+1055,2026-10-01,Wheat Flour 5kg,Grocery,3,240,720
+1056,2026-09-21,Wheat Flour 5kg,Grocery,3,240,720
+1056,2026-09-18,Rice 5kg,Grocery,4,320,1280
+1056,2026-10-01,Wheat Flour 5kg,Grocery,4,240,960
+1057,2026-09-15,Chocolate,Snacks,3,50,150
+1057,2026-10-02,Chocolate,Snacks,4,50,200
+1057,2026-09-05,Notebook,Stationery,2,60,120
+1058,2026-09-04,Biscuits,Snacks,1,30,30
+1058,2026-09-08,Biscuits,Snacks,1,30,30
+1058,2026-09-03,Biscuits,Snacks,3,30,90
+1059,2026-09-23,Curd 500g,Dairy,3,40,120
+1059,2026-09-30,Chocolate,Snacks,4,50,200
+1059,2026-09-10,Butter 100g,Dairy,3,58,174
+1060,2026-09-28,Toothpaste,Personal Care,1,95,95
+1060,2026-09-24,Wheat Flour 5kg,Grocery,1,240,240
+1060,2026-09-24,Chips,Snacks,2,20,40
+1061,2026-09-09,Chocolate,Snacks,3,50,150
+1061,2026-09-25,Milk 1L,Dairy,4,56,224
+1061,2026-09-22,Chocolate,Snacks,2,50,100
+1062,2026-09-18,Milk 1L,Dairy,2,56,112
+1062,2026-10-01,Wheat Flour 5kg,Grocery,1,240,240
+1062,2026-09-19,Toothpaste,Personal Care,2,95,190
+1063,2026-09-06,Milk 1L,Dairy,3,56,168
+1063,2026-10-01,Biscuits,Snacks,4,30,120
+1063,2026-09-21,Chocolate,Snacks,2,50,100
+1064,2026-09-22,Milk 1L,Dairy,4,56,224
+1064,2026-09-28,Chips,Snacks,4,20,80
+1064,2026-09-11,Wheat Flour 5kg,Grocery,4,240,960
+1065,2026-09-06,Chips,Snacks,1,20,20
+1065,2026-09-03,Biscuits,Snacks,3,30,90
+1065,2026-09-05,Rice 5kg,Grocery,2,320,640
+1066,2026-09-15,Soap,Personal Care,2,38,76
+1066,2026-09-12,Curd 500g,Dairy,2,40,80
+1066,2026-09-18,Milk 1L,Dairy,4,56,224
+1067,2026-09-19,Chocolate,Snacks,1,50,50
+1067,2026-09-04,Pen Pack,Stationery,4,45,180
+1067,2026-09-26,Toor Dal 1kg,Grocery,4,150,600
+1068,2026-09-22,Wheat Flour 5kg,Grocery,4,240,960
+1068,2026-09-07,Chips,Snacks,3,20,60
+1068,2026-09-23,Rice 5kg,Grocery,4,320,1280
+1069,2026-09-10,Rice 5kg,Grocery,1,320,320
+1069,2026-09-28,Wheat Flour 5kg,Grocery,4,240,960
+1069,2026-09-03,Sugar 1kg,Grocery,4,48,192
+1070,2026-09-30,Chips,Snacks,1,20,20
+1070,2026-09-07,Rice 5kg,Grocery,1,320,320
+1070,2026-10-02,Biscuits,Snacks,4,30,120
+1071,2026-09-11,Sugar 1kg,Grocery,4,48,192
+1071,2026-09-23,Rice 5kg,Grocery,4,320,1280
+1071,2026-09-06,Toothpaste,Personal Care,4,95,380
+1072,2026-09-27,Chips,Snacks,4,20,80
+1072,2026-09-16,Rice 5kg,Grocery,1,320,320
+1072,2026-09-23,Wheat Flour 5kg,Grocery,3,240,720
+1073,2026-09-19,Chocolate,Snacks,3,50,150
+1073,2026-09-16,Soap,Personal Care,1,38,38
+1073,2026-09-04,Chips,Snacks,1,20,20
+1074,2026-09-05,Toor Dal 1kg,Grocery,3,150,450
+1074,2026-09-25,Pen Pack,Stationery,3,45,135
+1074,2026-09-05,Rice 5kg,Grocery,3,320,960
+1075,2026-09-09,Rice 5kg,Grocery,4,320,1280
+1075,2026-09-15,Chips,Snacks,1,20,20
+1075,2026-09-26,Rice 5kg,Grocery,1,320,320
+1076,2026-09-20,Pen Pack,Stationery,2,45,90
+1076,2026-09-10,Chocolate,Snacks,3,50,150
+1076,2026-09-16,Biscuits,Snacks,1,30,30
+1077,2026-09-19,Notebook,Stationery,2,60,120
+1077,2026-09-19,Biscuits,Snacks,3,30,90
+1077,2026-09-16,Chips,Snacks,4,20,80
+1078,2026-09-16,Wheat Flour 5kg,Grocery,3,240,720
+1078,2026-09-30,Milk 1L,Dairy,2,56,112
+1078,2026-10-02,Wheat Flour 5kg,Grocery,1,240,240
+1079,2026-09-05,Toor Dal 1kg,Grocery,2,150,300
+1079,2026-09-26,Curd 500g,Dairy,3,40,120
+1079,2026-10-02,Chips,Snacks,2,20,40
+1080,2026-09-28,Milk 1L,Dairy,1,56,56
+1080,2026-09-21,Biscuits,Snacks,2,30,60
+1080,2026-09-11,Rice 5kg,Grocery,2,320,640
+1081,2026-09-07,Curd 500g,Dairy,1,40,40
+1081,2026-09-13,Biscuits,Snacks,3,30,90
+1081,2026-09-19,Chips,Snacks,3,20,60
+1082,2026-09-21,Chips,Snacks,2,20,40
+1082,2026-09-13,Chocolate,Snacks,3,50,150
+1082,2026-09-18,Curd 500g,Dairy,3,40,120
+1083,2026-10-01,Milk 1L,Dairy,3,56,168
+1083,2026-09-19,Chips,Snacks,4,20,80
+1083,2026-09-28,Toothpaste,Personal Care,3,95,285
+1084,2026-09-11,Biscuits,Snacks,4,30,120
+1084,2026-09-18,Milk 1L,Dairy,4,56,224
+1084,2026-09-04,Butter 100g,Dairy,1,58,58
+1085,2026-09-29,Rice 5kg,Grocery,4,320,1280
+1085,2026-09-05,Rice 5kg,Grocery,2,320,640
+1085,2026-09-17,Milk 1L,Dairy,1,56,56
+1086,2026-09-04,Milk 1L,Dairy,3,56,168
+1086,2026-09-16,Rice 5kg,Grocery,4,320,1280
+1086,2026-09-15,Soap,Personal Care,2,38,76
+1087,2026-09-10,Wheat Flour 5kg,Grocery,3,240,720
+1087,2026-09-18,Wheat Flour 5kg,Grocery,2,240,480
+1087,2026-09-05,Notebook,Stationery,4,60,240
+1088,2026-09-15,Chocolate,Snacks,2,50,100
+1088,2026-09-07,Chips,Snacks,3,20,60
+1088,2026-09-30,Milk 1L,Dairy,3,56,168
+1089,2026-09-23,Rice 5kg,Grocery,1,320,320
+1089,2026-09-17,Biscuits,Snacks,1,30,30
+1089,2026-09-15,Sugar 1kg,Grocery,4,48,192
+1090,2026-10-01,Pen Pack,Stationery,3,45,135
+1090,2026-09-27,Soap,Personal Care,4,38,152
+1090,2026-09-18,Wheat Flour 5kg,Grocery,2,240,480
+1091,2026-09-12,Milk 1L,Dairy,1,56,56
+1091,2026-09-04,Chocolate,Snacks,2,50,100
+1091,2026-09-30,Curd 500g,Dairy,1,40,40
+1092,2026-09-10,Sugar 1kg,Grocery,4,48,192
+1092,2026-09-21,Rice 5kg,Grocery,1,320,320
+1092,2026-09-08,Toor Dal 1kg,Grocery,2,150,300
+1093,2026-09-24,Biscuits,Snacks,2,30,60
+1093,2026-09-11,Rice 5kg,Grocery,1,320,320
+1093,2026-09-28,Soap,Personal Care,3,38,114
+1094,2026-09-15,Chips,Snacks,3,20,60
+1094,2026-09-21,Chocolate,Snacks,1,50,50
+1094,2026-09-25,Milk 1L,Dairy,3,56,168
+1095,2026-09-30,Milk 1L,Dairy,4,56,224
+1095,2026-09-18,Curd 500g,Dairy,4,40,160
+1095,2026-09-14,Soap,Personal Care,3,38,114
+1096,2026-09-12,Toothpaste,Personal Care,3,95,285
+1096,2026-09-14,Soap,Personal Care,2,38,76
+1096,2026-09-28,Butter 100g,Dairy,3,58,174
+1097,2026-09-03,Wheat Flour 5kg,Grocery,2,240,480
+1097,2026-09-21,Toothpaste,Personal Care,3,95,285
+1097,2026-09-03,Sugar 1kg,Grocery,2,48,96
+1098,2026-09-10,Sugar 1kg,Grocery,1,48,48
+1098,2026-09-23,Toothpaste,Personal Care,2,95,190
+1098,2026-09-07,Milk 1L,Dairy,3,56,168
+1099,2026-09-15,Rice 5kg,Grocery,2,320,640
+1099,2026-09-18,Chips,Snacks,3,20,60
+1099,2026-09-27,Pen Pack,Stationery,3,45,135
+1100,2026-10-02,Curd 500g,Dairy,4,40,160
+1100,2026-09-18,Toothpaste,Personal Care,3,95,285
+1100,2026-09-21,Notebook,Stationery,4,60,240
+1101,2026-09-05,Shampoo,Personal Care,1,120,120
+1101,2026-09-27,Chips,Snacks,2,20,40
+1101,2026-10-01,Biscuits,Snacks,3,30,90
+1102,2026-09-06,Pen Pack,Stationery,4,45,180
+1102,2026-09-27,Toor Dal 1kg,Grocery,3,150,450
+1102,2026-09-22,Chocolate,Snacks,2,50,100
+1103,2026-09-11,Wheat Flour 5kg,Grocery,1,240,240
+1103,2026-10-01,Chocolate,Snacks,2,50,100
+1103,2026-09-28,Pen Pack,Stationery,2,45,90
+1104,2026-09-10,Pen Pack,Stationery,2,45,90
+1104,2026-09-22,Chocolate,Snacks,1,50,50
+1104,2026-09-19,Biscuits,Snacks,4,30,120
+1105,2026-09-16,Toothpaste,Personal Care,4,95,380
+1105,2026-09-04,Rice 5kg,Grocery,2,320,640
+1105,2026-09-14,Rice 5kg,Grocery,1,320,320
+1106,2026-09-25,Chips,Snacks,3,20,60
+1106,2026-09-03,Chocolate,Snacks,4,50,200
+1106,2026-09-14,Chocolate,Snacks,4,50,200
+1107,2026-09-30,Rice 5kg,Grocery,1,320,320
+1107,2026-09-10,Chips,Snacks,4,20,80
+1107,2026-10-01,Rice 5kg,Grocery,3,320,960
+1108,2026-09-18,Chips,Snacks,1,20,20
+1108,2026-09-23,Milk 1L,Dairy,4,56,224
+1108,2026-09-10,Chips,Snacks,1,20,20
+1109,2026-09-18,Soap,Personal Care,2,38,76
+1109,2026-09-30,Soap,Personal Care,2,38,76
+1109,2026-09-16,Biscuits,Snacks,2,30,60
+1110,2026-09-19,Toor Dal 1kg,Grocery,4,150,600
+1110,2026-09-23,Sugar 1kg,Grocery,1,48,48
+1110,2026-09-16,Milk 1L,Dairy,3,56,168
+1111,2026-09-19,Chocolate,Snacks,4,50,200
+1111,2026-09-26,Milk 1L,Dairy,2,56,112
+1111,2026-09-06,Wheat Flour 5kg,Grocery,3,240,720
+1112,2026-09-28,Pen Pack,Stationery,3,45,135
+1112,2026-09-04,Biscuits,Snacks,2,30,60
+1112,2026-09-09,Toothpaste,Personal Care,2,95,190
+1113,2026-09-06,Wheat Flour 5kg,Grocery,2,240,480
+1113,2026-09-13,Rice 5kg,Grocery,1,320,320
+1113,2026-09-12,Rice 5kg,Grocery,2,320,640
+1114,2026-09-29,Chips,Snacks,2,20,40
+1114,2026-09-29,Milk 1L,Dairy,4,56,224
+1114,2026-09-18,Chocolate,Snacks,3,50,150
+1115,2026-09-13,Toor Dal 1kg,Grocery,4,150,600
+1115,2026-09-19,Sugar 1kg,Grocery,2,48,96
+1115,2026-09-12,Toothpaste,Personal Care,3,95,285
+1116,2026-09-09,Chocolate,Snacks,3,50,150
+1116,2026-09-03,Chips,Snacks,2,20,40
+1116,2026-09-11,Sugar 1kg,Grocery,2,48,96
+1117,2026-09-13,Wheat Flour 5kg,Grocery,4,240,960
+1117,2026-09-04,Toor Dal 1kg,Grocery,3,150,450
+1117,2026-09-20,Chocolate,Snacks,4,50,200
+1118,2026-09-28,Curd 500g,Dairy,2,40,80
+1118,2026-09-20,Pen Pack,Stationery,3,45,135
+1118,2026-09-23,Soap,Personal Care,4,38,152
+1119,2026-09-17,Chocolate,Snacks,1,50,50
+1119,2026-09-12,Biscuits,Snacks,1,30,30
+1119,2026-09-12,Chips,Snacks,4,20,80
+1120,2026-10-01,Butter 100g,Dairy,2,58,116
+1120,2026-10-01,Rice 5kg,Grocery,4,320,1280
+1120,2026-09-11,Wheat Flour 5kg,Grocery,1,240,240
+1121,2026-09-20,Toor Dal 1kg,Grocery,1,150,150
+1121,2026-09-10,Curd 500g,Dairy,3,40,120
+1121,2026-09-04,Milk 1L,Dairy,1,56,56
+1122,2026-09-22,Wheat Flour 5kg,Grocery,2,240,480
+1122,2026-09-29,Rice 5kg,Grocery,3,320,960
+1122,2026-10-02,Sugar 1kg,Grocery,2,48,96
+1123,2026-09-09,Milk 1L,Dairy,2,56,112
+1123,2026-09-11,Rice 5kg,Grocery,1,320,320
+1123,2026-09-07,Soap,Personal Care,1,38,38
+1124,2026-09-11,Butter 100g,Dairy,2,58,116
+1124,2026-09-15,Milk 1L,Dairy,2,56,112
+1124,2026-09-17,Chocolate,Snacks,4,50,200
+1125,2026-09-09,Toor Dal 1kg,Grocery,2,150,300
+1125,2026-09-30,Toor Dal 1kg,Grocery,2,150,300
+1125,2026-09-13,Chips,Snacks,1,20,20
+1126,2026-09-10,Milk 1L,Dairy,4,56,224
+1126,2026-09-17,Rice 5kg,Grocery,2,320,640
+1126,2026-09-08,Chips,Snacks,1,20,20
+1127,2026-09-12,Rice 5kg,Grocery,1,320,320
+1127,2026-09-05,Toothpaste,Personal Care,1,95,95
+1127,2026-09-27,Sugar 1kg,Grocery,1,48,48
+1128,2026-09-24,Wheat Flour 5kg,Grocery,3,240,720
+1128,2026-09-05,Sugar 1kg,Grocery,3,48,144
+1128,2026-09-23,Biscuits,Snacks,4,30,120
+1129,2026-09-11,Rice 5kg,Grocery,4,320,1280
+1129,2026-09-16,Biscuits,Snacks,1,30,30
+1129,2026-10-02,Chocolate,Snacks,4,50,200
+1130,2026-09-10,Toor Dal 1kg,Grocery,4,150,600
+1130,2026-10-02,Curd 500g,Dairy,3,40,120
+1130,2026-09-05,Pen Pack,Stationery,2,45,90
+1131,2026-09-07,Soap,Personal Care,2,38,76
+1131,2026-09-06,Chocolate,Snacks,3,50,150
+1131,2026-09-18,Sugar 1kg,Grocery,2,48,96
+1132,2026-09-27,Milk 1L,Dairy,1,56,56
+1132,2026-09-25,Rice 5kg,Grocery,2,320,640
+1132,2026-09-24,Rice 5kg,Grocery,1,320,320
+1133,2026-09-28,Chips,Snacks,3,20,60
+1133,2026-09-27,Chocolate,Snacks,2,50,100
+1133,2026-09-07,Shampoo,Personal Care,3,120,360
+1134,2026-09-26,Wheat Flour 5kg,Grocery,1,240,240
+1134,2026-09-04,Chips,Snacks,1,20,20
+1134,2026-09-06,Butter 100g,Dairy,4,58,232
+1135,2026-09-30,Rice 5kg,Grocery,1,320,320
+1135,2026-09-20,Pen Pack,Stationery,3,45,135
+1135,2026-09-20,Wheat Flour 5kg,Grocery,4,240,960
+1136,2026-09-15,Shampoo,Personal Care,3,120,360
+1136,2026-09-08,Chips,Snacks,2,20,40
+1136,2026-09-16,Rice 5kg,Grocery,3,320,960
+1137,2026-09-13,Milk 1L,Dairy,3,56,168
+1137,2026-09-08,Soap,Personal Care,1,38,38
+1137,2026-09-07,Biscuits,Snacks,1,30,30
+1138,2026-09-28,Shampoo,Personal Care,2,120,240
+1138,2026-09-08,Biscuits,Snacks,3,30,90
+1138,2026-09-25,Milk 1L,Dairy,3,56,168
+1139,2026-09-25,Chips,Snacks,3,20,60
+1139,2026-09-24,Chocolate,Snacks,4,50,200
+1139,2026-09-30,Milk 1L,Dairy,3,56,168
+1140,2026-09-04,Rice 5kg,Grocery,4,320,1280
+1140,2026-09-15,Biscuits,Snacks,2,30,60
+1140,2026-09-26,Rice 5kg,Grocery,4,320,1280
+1141,2026-09-07,Milk 1L,Dairy,3,56,168
+1141,2026-09-13,Wheat Flour 5kg,Grocery,4,240,960
+1141,2026-09-23,Sugar 1kg,Grocery,1,48,48
+1142,2026-10-02,Soap,Personal Care,4,38,152
+1142,2026-09-13,Sugar 1kg,Grocery,2,48,96
+1142,2026-09-22,Chips,Snacks,4,20,80
+1143,2026-09-15,Milk 1L,Dairy,3,56,168
+1143,2026-09-22,Chocolate,Snacks,3,50,150
+1143,2026-10-01,Chocolate,Snacks,3,50,150
+1144,2026-09-26,Wheat Flour 5kg,Grocery,4,240,960
+1144,2026-09-28,Shampoo,Personal Care,4,120,480
+1144,2026-09-03,Wheat Flour 5kg,Grocery,1,240,240
+1145,2026-09-16,Chocolate,Snacks,1,50,50
+1145,2026-10-02,Pen Pack,Stationery,2,45,90
+1145,2026-09-30,Chips,Snacks,4,20,80
+1146,2026-09-21,Milk 1L,Dairy,2,56,112
+1146,2026-09-20,Biscuits,Snacks,3,30,90
+1146,2026-09-03,Milk 1L,Dairy,3,56,168
+1147,2026-09-18,Toothpaste,Personal Care,2,95,190
+1147,2026-09-13,Sugar 1kg,Grocery,2,48,96
+1147,2026-09-26,Milk 1L,Dairy,1,56,56
+1148,2026-09-12,Sugar 1kg,Grocery,3,48,144
+1148,2026-09-03,Milk 1L,Dairy,4,56,224
+1148,2026-09-08,Toor Dal 1kg,Grocery,1,150,150
+1149,2026-09-20,Chocolate,Snacks,4,50,200
+1149,2026-09-17,Toor Dal 1kg,Grocery,1,150,150
+1149,2026-09-17,Sugar 1kg,Grocery,3,48,144
+1150,2026-09-16,Curd 500g,Dairy,2,40,80
+1150,2026-09-03,Rice 5kg,Grocery,2,320,640
+1150,2026-09-10,Notebook,Stationery,3,60,180
+1151,2026-09-29,Butter 100g,Dairy,1,58,58
+1151,2026-09-07,Toor Dal 1kg,Grocery,2,150,300
+1151,2026-09-12,Chocolate,Snacks,4,50,200
+1152,2026-09-06,Toothpaste,Personal Care,4,95,380
+1152,2026-09-13,Pen Pack,Stationery,4,45,180
+1152,2026-09-15,Rice 5kg,Grocery,1,320,320
+1153,2026-09-09,Milk 1L,Dairy,3,56,168
+1153,2026-09-27,Wheat Flour 5kg,Grocery,4,240,960
+1153,2026-09-15,Biscuits,Snacks,3,30,90
+1154,2026-09-05,Sugar 1kg,Grocery,2,48,96
+1154,2026-09-06,Sugar 1kg,Grocery,4,48,192
+1154,2026-09-18,Biscuits,Snacks,3,30,90
+1155,2026-09-28,Milk 1L,Dairy,2,56,112
+1155,2026-09-06,Milk 1L,Dairy,4,56,224
+1155,2026-09-04,Chocolate,Snacks,1,50,50
+1156,2026-09-15,Notebook,Stationery,1,60,60
+1156,2026-09-24,Toothpaste,Personal Care,1,95,95
+1156,2026-09-08,Toor Dal 1kg,Grocery,4,150,600
+1157,2026-09-22,Sugar 1kg,Grocery,2,48,96
+1157,2026-09-08,Curd 500g,Dairy,1,40,40
+1157,2026-09-07,Chips,Snacks,4,20,80
+1158,2026-09-25,Shampoo,Personal Care,2,120,240
+1158,2026-09-24,Biscuits,Snacks,1,30,30
+1158,2026-09-11,Toor Dal 1kg,Grocery,1,150,150
+1159,2026-09-05,Notebook,Stationery,4,60,240
+1159,2026-09-12,Chocolate,Snacks,3,50,150
+1159,2026-09-16,Butter 100g,Dairy,3,58,174
+1160,2026-09-27,Biscuits,Snacks,2,30,60
+1160,2026-09-13,Wheat Flour 5kg,Grocery,1,240,240
+1160,2026-09-05,Notebook,Stationery,2,60,120
+1161,2026-09-07,Notebook,Stationery,1,60,60
+1161,2026-10-01,Biscuits,Snacks,1,30,30
+1161,2026-09-29,Toor Dal 1kg,Grocery,1,150,150
+1162,2026-09-07,Wheat Flour 5kg,Grocery,4,240,960
+1162,2026-09-30,Milk 1L,Dairy,3,56,168
+1162,2026-10-02,Curd 500g,Dairy,2,40,80
+1163,2026-09-22,Biscuits,Snacks,1,30,30
+1163,2026-09-07,Pen Pack,Stationery,4,45,180
+1163,2026-09-14,Chocolate,Snacks,2,50,100
+1164,2026-09-27,Wheat Flour 5kg,Grocery,4,240,960
+1164,2026-09-19,Milk 1L,Dairy,1,56,56
+1164,2026-09-04,Milk 1L,Dairy,4,56,224
+1165,2026-09-04,Chips,Snacks,4,20,80
+1165,2026-09-27,Chocolate,Snacks,1,50,50
+1165,2026-09-18,Toothpaste,Personal Care,2,95,190
+1166,2026-09-25,Chips,Snacks,1,20,20
+1166,2026-09-11,Pen Pack,Stationery,2,45,90
+1166,2026-09-14,Rice 5kg,Grocery,2,320,640
+1167,2026-09-16,Wheat Flour 5kg,Grocery,1,240,240
+1167,2026-09-17,Chips,Snacks,2,20,40
+1167,2026-09-22,Toothpaste,Personal Care,2,95,190
+1168,2026-09-24,Chips,Snacks,2,20,40
+1168,2026-09-22,Chips,Snacks,3,20,60
+1168,2026-09-21,Curd 500g,Dairy,4,40,160
+1169,2026-09-19,Milk 1L,Dairy,1,56,56
+1169,2026-10-02,Chips,Snacks,4,20,80
+1169,2026-10-02,Rice 5kg,Grocery,2,320,640
+1170,2026-09-25,Shampoo,Personal Care,3,120,360
+1170,2026-09-16,Pen Pack,Stationery,3,45,135
+1170,2026-09-08,Chips,Snacks,2,20,40
+1171,2026-09-24,Notebook,Stationery,2,60,120
+1171,2026-09-14,Chocolate,Snacks,2,50,100
+1171,2026-09-07,Biscuits,Snacks,3,30,90
+1172,2026-09-24,Butter 100g,Dairy,4,58,232
+1172,2026-09-08,Milk 1L,Dairy,3,56,168
+1172,2026-09-23,Milk 1L,Dairy,2,56,112
+1173,2026-09-10,Curd 500g,Dairy,1,40,40
+1173,2026-09-12,Rice 5kg,Grocery,3,320,960
+1173,2026-09-24,Chips,Snacks,3,20,60
+1174,2026-09-29,Rice 5kg,Grocery,2,320,640
+1174,2026-09-07,Sugar 1kg,Grocery,4,48,192
+1174,2026-09-25,Soap,Personal Care,1,38,38
+1175,2026-09-08,Chips,Snacks,1,20,20
+1175,2026-09-25,Toor Dal 1kg,Grocery,1,150,150
+1175,2026-09-11,Toor Dal 1kg,Grocery,3,150,450
+1176,2026-09-25,Toothpaste,Personal Care,1,95,95
+1176,2026-09-19,Biscuits,Snacks,3,30,90
+1176,2026-09-20,Notebook,Stationery,3,60,180
+1177,2026-09-12,Toor Dal 1kg,Grocery,3,150,450
+1177,2026-09-24,Milk 1L,Dairy,4,56,224
+1177,2026-09-16,Milk 1L,Dairy,3,56,168
+1178,2026-09-19,Rice 5kg,Grocery,2,320,640
+1178,2026-10-01,Shampoo,Personal Care,3,120,360
+1178,2026-09-08,Curd 500g,Dairy,4,40,160
+1179,2026-09-12,Soap,Personal Care,2,38,76
+1179,2026-09-24,Biscuits,Snacks,2,30,60
+1179,2026-09-27,Chips,Snacks,2,20,40
+1180,2026-09-15,Toor Dal 1kg,Grocery,4,150,600
+1180,2026-09-12,Toothpaste,Personal Care,4,95,380
+1180,2026-09-03,Pen Pack,Stationery,3,45,135
+1181,2026-09-09,Chocolate,Snacks,4,50,200
+1181,2026-09-21,Curd 500g,Dairy,2,40,80
+1181,2026-09-21,Sugar 1kg,Grocery,3,48,144
+1182,2026-09-12,Toor Dal 1kg,Grocery,2,150,300
+1182,2026-09-13,Biscuits,Snacks,2,30,60
+1182,2026-09-22,Sugar 1kg,Grocery,4,48,192
+1183,2026-09-20,Soap,Personal Care,1,38,38
+1183,2026-09-04,Rice 5kg,Grocery,2,320,640
+1183,2026-09-07,Chocolate,Snacks,4,50,200
+1184,2026-09-23,Wheat Flour 5kg,Grocery,4,240,960
+1184,2026-09-06,Wheat Flour 5kg,Grocery,2,240,480
+1184,2026-09-11,Pen Pack,Stationery,1,45,45
+1185,2026-09-03,Wheat Flour 5kg,Grocery,2,240,480
+1185,2026-09-29,Biscuits,Snacks,4,30,120
+1185,2026-09-21,Pen Pack,Stationery,1,45,45
+1186,2026-09-20,Wheat Flour 5kg,Grocery,4,240,960
+1186,2026-09-17,Toor Dal 1kg,Grocery,4,150,600
+1186,2026-09-16,Chips,Snacks,1,20,20
+1187,2026-09-20,Soap,Personal Care,1,38,38
+1187,2026-09-18,Curd 500g,Dairy,3,40,120
+1187,2026-09-11,Butter 100g,Dairy,3,58,174
+1188,2026-09-03,Chips,Snacks,4,20,80
+1188,2026-09-03,Pen Pack,Stationery,3,45,135
+1188,2026-09-23,Wheat Flour 5kg,Grocery,3,240,720
+1189,2026-09-12,Pen Pack,Stationery,2,45,90
+1189,2026-09-08,Curd 500g,Dairy,2,40,80
+1189,2026-09-14,Rice 5kg,Grocery,3,320,960
+1190,2026-09-12,Milk 1L,Dairy,4,56,224
+1190,2026-09-30,Soap,Personal Care,4,38,152
+1190,2026-09-14,Milk 1L,Dairy,2,56,112
+1191,2026-09-24,Chocolate,Snacks,4,50,200
+1191,2026-09-09,Butter 100g,Dairy,4,58,232
+1191,2026-09-20,Wheat Flour 5kg,Grocery,4,240,960
+1192,2026-09-12,Wheat Flour 5kg,Grocery,1,240,240
+1192,2026-09-11,Biscuits,Snacks,1,30,30
+1192,2026-09-09,Rice 5kg,Grocery,1,320,320
+1193,2026-09-28,Curd 500g,Dairy,4,40,160
+1193,2026-09-13,Rice 5kg,Grocery,3,320,960
+1193,2026-09-13,Soap,Personal Care,1,38,38
+1194,2026-09-04,Wheat Flour 5kg,Grocery,4,240,960
+1194,2026-09-19,Soap,Personal Care,3,38,114
+1194,2026-09-04,Soap,Personal Care,1,38,38
+1195,2026-09-19,Milk 1L,Dairy,3,56,168
+1195,2026-09-12,Toor Dal 1kg,Grocery,4,150,600
+1195,2026-09-19,Butter 100g,Dairy,4,58,232
+1196,2026-09-12,Curd 500g,Dairy,2,40,80
+1196,2026-09-21,Sugar 1kg,Grocery,1,48,48
+1196,2026-10-01,Chocolate,Snacks,1,50,50
+1197,2026-09-13,Rice 5kg,Grocery,1,320,320
+1197,2026-09-04,Sugar 1kg,Grocery,4,48,192
+1197,2026-09-23,Milk 1L,Dairy,4,56,224
+1198,2026-10-02,Wheat Flour 5kg,Grocery,3,240,720
+1198,2026-09-30,Curd 500g,Dairy,2,40,80
+1198,2026-10-01,Shampoo,Personal Care,4,120,480
+1199,2026-09-16,Shampoo,Personal Care,1,120,120
+1199,2026-09-17,Sugar 1kg,Grocery,3,48,144
+1199,2026-09-10,Toor Dal 1kg,Grocery,3,150,450
